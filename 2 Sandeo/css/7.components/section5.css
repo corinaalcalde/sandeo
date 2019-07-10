@@ -1,0 +1,30 @@
+.section5{
+    background-color: #f9f7f7;
+    padding-top: 50px;
+}    
+.section5__container-card{
+   margin-right: auto;
+   margin-left: auto;
+   flex-direction: row;
+   display: flex;
+   
+}
+.section5__width-card{
+    width: 350px;
+}
+.section5__text-card{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-right: 10px;
+    padding: 2rem;
+}
+.section5__number{
+    font-size: 3rem;
+    font-weight: bold;
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+.section5__img{
+    margin-top: 1rem;
+}

@@ -1,0 +1,20 @@
+.section1{
+    background-color: #f9f7f7;
+    padding-top: 50px;
+    padding-block-end: 90px;
+}
+.section1__img{
+    width: 100%;
+    margin-top: 80px;
+    margin-left: 20px;
+}
+.section1__h2{
+    font-size: 55px;
+    margin-bottom: 10px;
+    
+}
+.section1__text{
+    margin-top: 20px;
+    margin-bottom: 30px;
+    margin-right: 30px;
+}

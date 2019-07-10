@@ -1,0 +1,43 @@
+.section2__container__subtitle{
+    text-align: center;
+    width: 30rem;
+    margin-right: auto;
+    margin-left: auto;
+}
+.section2__h2{
+    font-size: 40px;
+    text-transform: uppercase;
+
+}
+.section2{
+    padding-bottom: 80px;
+}
+.section2__text{
+    margin-bottom: 10px;
+}
+.section2__container-text{
+    padding: 3rem;
+}
+.section2__p{
+    line-height: 20px;
+    color: gray;
+    margin-bottom: 25px;
+}
+.section2__img{
+    width: 100%;
+    
+}
+.section2__container-img{
+   padding: 3rem; 
+}
+.section2__h3{
+    margin-top: 30px;
+    font-size: 30px;
+    color: rgb(46, 44, 44);
+}
+.section2__container-card{
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

@@ -1,0 +1,39 @@
+.u-not-margin{
+    margin: 0;
+}
+
+.u-border-bottom-primary{
+    border-bottom: 2px solid #4ec2c2;
+    border-right:1px solid #adaaaa;
+    border-left: 1px solid #adaaaa;
+} 
+.u-border-bottom-secondary{
+    border-bottom: 2px solid #34495e;
+    border-right:1px solid  #adaaaa;
+    border-left: 1px solid #adaaaa;
+}
+.u-uppercase{
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.u-white{
+    color: white
+}
+.u-gray{
+    color: gray;
+}
+.u-color-primary{
+    color: #4ec2c2;
+}
+.u-row{
+    display: flex;
+}
+.u-span-color-primary{
+    color: #4ec2c2;
+}
+.u-text-center{
+    text-align: center;
+}
+.u-margin-left-button{
+    margin-left: 450px;
+}

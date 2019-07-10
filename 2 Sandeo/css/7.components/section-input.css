@@ -1,0 +1,37 @@
+.section-input{
+    margin-top:60px; 
+    background-color: #34495e;
+    height: 160px;
+}
+.section-input__container{
+    width: 1024px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+}
+.section-input__h2{
+    margin-top: 40px;
+}
+.section-input__h2span{
+    font-size:30px ;
+    font-family:sans-serif;
+}
+
+/* agregar position absolute  */
+.section-input__input{
+    border-radius: 20px;
+    width: 100%;
+    height: 3rem;
+    border: 1px solid transparent;
+    padding: 3px;
+}
+.section-input__container-button{
+    margin-top: 40px;
+    position: relative;
+}
+.search{
+    position: absolute;
+    right: 5px;
+    top: 5px;
+}

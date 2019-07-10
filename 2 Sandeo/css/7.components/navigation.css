@@ -1,0 +1,16 @@
+
+.navigation__menu{
+    display: flex;
+    align-items: center;
+}
+.navigation__item{
+    width: 90px;
+    height: 25px;
+    margin-right: 2px;
+}
+.navigation__link{
+    color: gray;
+    font-size: 12px;
+    font-family:sans-serif;
+    margin-right: 10px;
+}

@@ -1,0 +1,18 @@
+.section6{
+    padding-top: 60px;
+}
+.section6__container-card{
+    display: flex;
+    flex-direction: row;
+}
+.section6__text-card{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-right: 10px;
+    
+}
+.section6__img{
+    margin: 1rem 2rem;
+    width: 70%;
+}

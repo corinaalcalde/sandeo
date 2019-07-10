@@ -1,0 +1,31 @@
+.section8{
+    background-color: #f9f7f7;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.section8__width-card{
+    width: 350px;
+}
+.section8__text-card{
+    display: flex;
+    flex-direction: column;
+    margin-right: 10px;
+    padding: 1rem;
+    background-color: white;
+    border: 1px solid rgb(228, 217, 217);
+    border-top: transparent;
+}
+.section8__container-card{
+    margin-right: auto;
+    margin-left: auto;
+    flex-direction: row;
+    display: flex;
+    
+}
+.section8__img{
+    width: 100%;
+}
+.section8__redes{
+    display: flex;
+    justify-content: space-around;
+}

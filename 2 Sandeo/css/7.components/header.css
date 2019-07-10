@@ -1,0 +1,19 @@
+
+.top-header__img{
+    border-radius: 50%;
+    width: 30px;
+    margin: 7px 5px;
+}
+.top-header{
+    background-color: #34495e;
+    height: 70px;
+}
+.top-header__email{
+    margin-left: 20px;
+}
+.top-header__email::before{
+    content: "\2709";
+}
+.top-header__number::before{
+    content: "\2706";
+}

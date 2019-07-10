@@ -1,0 +1,9 @@
+.cifras{
+    background-color: #34495e;
+    height: 160px;
+}
+.container-cifras{
+    display: flex;
+    width: 100%;
+    padding: 40px 10px;
+}

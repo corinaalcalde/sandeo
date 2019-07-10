@@ -1,0 +1,14 @@
+.card{
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-right: 10px;
+}
+.card-primary{
+    background-color: #4ec2c2;
+}
+.card-secondary{
+    background-color: #34495e;
+}
+    

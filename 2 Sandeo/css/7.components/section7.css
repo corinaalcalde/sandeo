@@ -1,0 +1,26 @@
+.section7{
+    background-color: #34495e;
+    padding-top: 50px;
+    margin-top: 80px;
+    height: 550px;
+}
+.section7__img{
+    width: 70%;
+    
+}
+.testimonial{
+    display: flex;
+    margin-top: 40px;
+    margin-right: 10px;
+}
+.section7__img-testimonial{
+    background-color: #4ec2c2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.section7__container-text{
+    background-color: white;
+    padding: 20px;
+    border-right: 4px solid #4ec2c2;
+}

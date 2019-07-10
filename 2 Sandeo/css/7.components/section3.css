@@ -1,0 +1,14 @@
+.section3{
+    padding-top: 50px;
+    padding-bottom: 60px;
+}
+.container-article-section3{
+    margin-bottom: 30px;
+    margin-top: 50px;
+}
+.section3__article{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px;
+}
